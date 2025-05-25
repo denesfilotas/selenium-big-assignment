@@ -1,0 +1,30 @@
+<static-pages>
+    <page>
+        <title>OpenMRS</title>
+        <heading-level>1</heading-level>
+        <heading>OpenMRS RAP Style Guide</heading>
+        <url>https://o2.openmrs.org/openmrs/uicommons/styleGuide.page</url>
+        <content>This is OpenMRS color palette. You can alter the following variables to add you own palette.</content>
+    </page>
+    <page>
+        <title>OpenMRS</title>
+        <heading-level>1</heading-level>
+        <heading>OpenMRS RAP Style Guide</heading>
+        <url>https://o2.openmrs.org/openmrs/uicommons/javascript.page</url>
+        <content>Date Time Picker</content>
+    </page>
+    <page>
+        <title>OpenMRS</title>
+        <heading-level>1</heading-level>
+        <heading>OpenMRS Style Guide Grid Test Page</heading>
+        <url>https://o2.openmrs.org/openmrs/uicommons/grid.page</url>
+        <content>Responsive Sidebar</content>
+    </page>
+    <page>
+        <title>OpenMRS Electronic Medical Record</title>
+        <heading-level>3</heading-level>
+        <heading>Active Visits</heading>
+        <url>https://o2.openmrs.org/openmrs/coreapps/activeVisits.page?app=coreapps.activeVisits</url>
+        <content>Search</content>
+    </page>
+</static-pages>
